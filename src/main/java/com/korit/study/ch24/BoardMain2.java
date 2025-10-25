@@ -27,6 +27,7 @@ public class BoardMain2 {
         boards.add(board2);
 
         System.out.println(boards);
+        //변경
     }
 }
 

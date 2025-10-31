@@ -51,6 +51,6 @@ public class Main {
         connectionDialog.add(connectButton, BorderLayout.SOUTH);
         connectionDialog.setSize(300, 100);
         connectionDialog.setVisible(true);
-
+//sdfa
     }
 }
